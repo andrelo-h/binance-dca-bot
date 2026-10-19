@@ -6,7 +6,7 @@ __pycache__/
 *.pyc
 venv/
 .venv/
-
+.enve
 # These ARE committed (your code)
 # bot.py
 # requirements.txt
