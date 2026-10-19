@@ -1,0 +1,13 @@
+# NEVER commit these
+.env
+*.db
+__pycache__/
+.DS_Store
+*.pyc
+venv/
+.venv/
+
+# These ARE committed (your code)
+# bot.py
+# requirements.txt
+# .env.example  ← shows what keys are needed, no values
